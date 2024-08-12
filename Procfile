@@ -1,2 +1,2 @@
 web: python app.py
-worker: bash repub
+worker: bash i love scalingo
