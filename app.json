@@ -3,12 +3,12 @@
     "description": "• تنصيب سـورس ريبـــثون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "logo": "https://graph.org/file/5d3e657e910057f03a8aa.jpg",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080","flask-app","app","webapp"],
-    "repository": "https://github.com/Repthon-Arabic/B",
-    "website": "https://baqir-flask.scalingo.io",
+    "keywords": ["application","web","flask","scalingo","flask-app","app"],
+    "repository": "https://github.com/baqir-batch/Baqir",
+    "website": "https://haha-flask.scalingo.io",
     "stack": "container",
     "env": {
-        "STRING_SESSION": {
+        "APP_STRING_SESSION": {
             "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 RepthonStringSessionBot@ 〕..",
             "required": true
         },
@@ -17,7 +17,7 @@
             "required": true,
             "value":""
         },
-        "APP_ID": {
+        "API_ID": {
             "description": "كـود ايبي ايـدي〔 App id 〕اتركـه كمـا هــو",
             "required": true,
             "value":"13740761"
